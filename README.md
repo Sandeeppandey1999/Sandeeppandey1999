@@ -1,6 +1,6 @@
 ### 👋 Hello there! I'm Sandeep Pandey
 
-🚀 Passionate and results-driven **Full Stack Developer** with 3 years of hands-on experience in designing, developing, and deploying scalable web applications.  
+🚀 Passionate and results-driven **Full Stack Developer** with 3+ years of hands-on experience in designing, developing, and deploying scalable web applications.  
 💻 Skilled in **Java**, **Spring Boot**, **React**, **JavaScript**, **HTML/CSS**, and working with RESTful APIs and databases like MySQL and MongoDB.  
 🛠️ Strong problem-solving mindset with a love for clean code, collaboration, and continuous learning.
 
